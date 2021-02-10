@@ -1,0 +1,23 @@
+<html> 
+    <head>
+        <title>Informate de Virus</title> 
+    </head>
+    <body>
+       <h1>Hablemos sobre Virus Informaticos</h1>
+       <p> Virus Informaticos
+ 
+     <select> 
+         <option>¿Que es un virus</option>
+          <option>Tipos de Virus</option>
+         <option>Protege tu Equipo</option> 
+     </select>
+
+     
+ 
+     <br/>
+     <hr/>
+ 
+      <br/> 
+      <a href = "Pag2.html"> Ir a Pag2 </a>
+   </body> 
+</html>
